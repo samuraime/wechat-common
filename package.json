@@ -4,7 +4,7 @@
   "description": "get Wechat access token and JSSDK config",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -t 5000"
   },
   "repository": {
     "type": "git",
